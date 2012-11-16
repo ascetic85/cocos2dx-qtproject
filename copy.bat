@@ -1,4 +1,3 @@
-
 copy /Y ..\platform\third_party\win32\libraries\glew32.dll lib
 copy /Y ..\platform\third_party\win32\libraries\libcurl.dll lib
 copy /Y ..\platform\third_party\win32\libraries\libtiff.dll lib

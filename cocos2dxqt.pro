@@ -6,6 +6,7 @@
 # just support cocos2d-x 2.0.4, you can port if you want other cocos2d-x version
 #
 
+
 TEMPLATE = lib
 TARGET = cocos2dx-qt
 
